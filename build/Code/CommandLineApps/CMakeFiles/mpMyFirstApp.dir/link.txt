@@ -1,0 +1,1 @@
+/usr/bin/c++    -Wno-deprecated-declarations -O3 -DNDEBUG   CMakeFiles/mpMyFirstApp.dir/mpMyFirstApp.cpp.o  -o ../../bin/mpMyFirstApp  ../../bin/libmyproject.a 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../../bin/libmyproject.a  CMakeFiles/myproject.dir/mpBasicTypes.cpp.o CMakeFiles/myproject.dir/mpMyFunctions.cpp.o CMakeFiles/myproject.dir/mpException.cpp.o
+/usr/bin/ranlib ../../bin/libmyproject.a
